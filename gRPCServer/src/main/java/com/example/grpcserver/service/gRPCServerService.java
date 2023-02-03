@@ -1,4 +1,4 @@
-package service;
+package com.example.grpcserver.service;
 
 import io.grpc.stub.StreamObserver;
 import net.devh.boot.grpc.server.service.GrpcService;
@@ -7,7 +7,7 @@ import org.chb.examples.lib.HelloRequest;
 import org.chb.examples.lib.SimpleGrpc;
 
 @GrpcService
-public class gRPCService extends SimpleGrpc.SimpleImplBase {
+public class gRPCServerService extends SimpleGrpc.SimpleImplBase {
     @Override
     public void sayHello(HelloRequest request, StreamObserver<HelloReply> responseObserver) {
         HelloReply reply = HelloReply.newBuilder()
