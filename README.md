@@ -7,4 +7,4 @@ gRPC에 대해 공부해 보기 위한 간단한 실습 프로젝트
 - [Spring boot로 Grpc를 사용해보자](https://velog.io/@chb1828/Spring-boot%EB%A1%9C-Grpc%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90)
 
 # 트러블슈팅
-- [Spring Boot와 net.devh:grpc-client-spring-boot-starter 호환성 오류](https://velog.io/@mbsik6082/Spring-Boot-gRPC-Server-%EC%8B%A4%ED%96%89%EC%8B%9C%EC%9E%91-%EC%95%88-%EB%90%98%EB%8A%94-%EC%98%A4%EB%A5%98-gRPC-server-not-start-error-when-using-spring-boot)
+- [Spring Boot 3.0과 net.devh:grpc-client-spring-boot-starter 호환성 오류](https://velog.io/@mbsik6082/Spring-Boot-gRPC-Server-%EC%8B%A4%ED%96%89%EC%8B%9C%EC%9E%91-%EC%95%88-%EB%90%98%EB%8A%94-%EC%98%A4%EB%A5%98-gRPC-server-not-start-error-when-using-spring-boot)
